@@ -1,1 +1,3 @@
-print("un monton de tetas y culos")
+print("SIEMPRE FIELES")
+print("Nolito balón de oro")
+
